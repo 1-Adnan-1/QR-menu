@@ -16,4 +16,4 @@ Proje, HTML, CSS, JavaScript ve db.json kullanılarak geliştirilmiştir.
 * **db.json:** Ürün ve yorum verilerini simüle etmek için kullanıldı.
 
 ## 📸 GİF
-
+![ZightRecording2025-01-17at10 00 53PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0675d133-c841-4a42-b091-dec126ace833)
